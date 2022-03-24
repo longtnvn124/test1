@@ -1,0 +1,54 @@
+table,
+tr,
+td,
+th {
+  
+  width: 100%;
+
+  width: 450px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  
+}
+
+h2{
+    font-family: "Courier New", Courier, monospace;
+    size: 40px;
+    margin-left: 160px;
+    color: red;
+}
+
+
+a {
+  color: #393939;
+  text-decoration: none;
+}
+li {
+  border-collapse: collapse;
+  border: 1px solid #000000;
+  background: lightgoldenrodyellow;
+  
+  height: 45px;
+  font-size: 15px;
+  align-items: center;
+  text-align: center;
+}
+ li:hover{
+   background-color: lightsalmon;
+ }
+
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+ul.a {
+  list-style-image: url("img/musical-notes_1f3b6.png");
+}
+ul.b {
+  list-style-image: url("img/pngegg.png");
+}
+
+
+
